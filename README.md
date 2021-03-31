@@ -1,1 +1,2 @@
 # TronAI
+# Clone to play!
